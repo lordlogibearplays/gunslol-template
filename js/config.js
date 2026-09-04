@@ -7,11 +7,11 @@ const CONFIG = {
   // ----------------------------------------------------------
   // PROFILE
   // ----------------------------------------------------------
-  profileName:   "𝔍𝔢𝔣𝔢𝔯",      // name shown on the card
+  profileName:   "lordlogibearplays",      // name shown on the card
   nameTooltip:   "Oñooo",         // tooltip on hover over the name
   nameEffect:    "noise",         // "noise" = TV interference | "none" = plain text
   statusText:    "🏃🏿‍➡️ Isso é muita areia hoje...", // text below the name (typewriter effect)
-  tabTitle:      "@𝔍𝔢𝔣𝔢𝔯",      // animated browser tab title
+  tabTitle:      "welcom to my recources/mods",      // animated browser tab title
   entrySymbol:   "⛧",            // symbol shown on the entry screen
 
   // ----------------------------------------------------------
@@ -46,8 +46,8 @@ const CONFIG = {
   // ----------------------------------------------------------
   // DISCORD (static — no API, edit manually)
   // ----------------------------------------------------------
-  discordUsername: "Jofagg_",
-  discordStatus:   "acalme-se vadia...",
+  discordUsername: "gg5670795",
+  discordStatus:   "online most likely",
   discordAvatar:   "assets/discord-avatar.jpg",
   discordAvatarSize:   "74px",
   discordAvatarBorder: "2px solid rgba(200, 27, 27, 0.15)",
